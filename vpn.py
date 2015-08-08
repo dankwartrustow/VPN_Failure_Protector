@@ -1,6 +1,6 @@
 # This script will work on Ubuntu and Debian systems 
 # leveraging Python 2.6.7 at this directory: /usr/bin/env python.
-
+   
 # Ensure that the proper libraries are installed by looking at the 
 # 'import' statements below. In this case, you'll need: gobject, dbus
 
